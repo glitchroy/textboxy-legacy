@@ -383,6 +383,14 @@
             }
         },
         {
+            "Key": "8427047f-9ef8-4c77-89f3-9c20623d07b6",
+            "Value": {
+                "id": "6834bb38-acde-4440-811c-c1f863e4e9b1",
+                "resourcePath": "options\\ios\\options_ios.yy",
+                "resourceType": "GMiOSOptions"
+            }
+        },
+        {
             "Key": "860a202a-312c-4806-a29e-1955e9a95c58",
             "Value": {
                 "id": "d1189ee2-f65f-440c-9408-5a29776ac7db",
@@ -444,6 +452,14 @@
                 "id": "ba62fc72-3479-448a-b1cf-74037e9c4329",
                 "resourcePath": "scripts\\tbyActionShowString\\tbyActionShowString.yy",
                 "resourceType": "GMScript"
+            }
+        },
+        {
+            "Key": "a128950b-5063-4876-b4a6-b99dbd2ea6d1",
+            "Value": {
+                "id": "966bdeaf-a3ee-4e72-8f4c-6b2511027a47",
+                "resourcePath": "options\\amazonfire\\options_amazonfire.yy",
+                "resourceType": "GMAmazonFireOptions"
             }
         },
         {
@@ -612,6 +628,14 @@
                 "id": "17e8adba-d98f-48c7-923e-b8c9f68507dd",
                 "resourcePath": "sprites\\sprTbySkinB\\sprTbySkinB.yy",
                 "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "e42bf5cc-3f46-4d67-a6d0-a4885a11ac3f",
+            "Value": {
+                "id": "468b9c69-15a0-4d56-8477-f7746d210bd3",
+                "resourcePath": "options\\android\\options_android.yy",
+                "resourceType": "GMAndroidOptions"
             }
         },
         {
